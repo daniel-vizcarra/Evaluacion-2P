@@ -18,4 +18,10 @@
             ContentTemplate="{DataTemplate views:AboutPageDV}" />
     </FlyoutItem>
 
+    <FlyoutItem Title="Text" Icon="{OnPlatform 'text.png', iOS='text.png', MacCatalyst='text.png'}">
+        <ShellContent
+            Title="Text"
+            ContentTemplate="{DataTemplate views:TextPageDV}" />
+    </FlyoutItem>
+
 </Shell>

@@ -187,6 +187,7 @@ C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.pdb
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppActions.Icons.Maui.dll
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -333,6 +334,7 @@ C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about_ios.scale-100.png
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes_ios.scale-100.png
+C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\text.scale-100.png
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.AssemblyInfoInputs.cache
 C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.AssemblyInfo.cs

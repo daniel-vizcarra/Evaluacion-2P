@@ -226,6 +226,9 @@
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes_ios.scale-100.png">
       <PackagePath>icon_notes_ios.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\text.scale-100.png">
+      <PackagePath>text.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.deps.json">
       <PackagePath>AppApuntes-DanielVizcarra.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -234,6 +237,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cisco\.nuget\packages\appactions.icons.maui\1.0.0\lib\net6.0-windows10.0.19041\AppActions.Icons.Maui.dll">
+      <PackagePath>AppActions.Icons.Maui.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>

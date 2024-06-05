@@ -1,3 +1,4 @@
+AppActions.Icons.Maui.dll
 GoogleGson.dll
 Jsr305Binding.dll
 Microsoft.Maui.Controls.Compatibility.dll
@@ -19,6 +20,7 @@ Xamarin.AndroidX.AppCompat.AppCompatResources.dll
 Xamarin.AndroidX.AppCompat.dll
 Xamarin.AndroidX.Arch.Core.Common.dll
 Xamarin.AndroidX.Arch.Core.Runtime.dll
+Xamarin.AndroidX.AsyncLayoutInflater.dll
 Xamarin.AndroidX.Browser.dll
 Xamarin.AndroidX.CardView.dll
 Xamarin.AndroidX.Collection.dll
@@ -41,7 +43,9 @@ Xamarin.AndroidX.ExifInterface.dll
 Xamarin.AndroidX.Fragment.dll
 Xamarin.AndroidX.Fragment.Ktx.dll
 Xamarin.AndroidX.Interpolator.dll
+Xamarin.AndroidX.Legacy.Support.Core.UI.dll
 Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+Xamarin.AndroidX.Legacy.Support.V4.dll
 Xamarin.AndroidX.Lifecycle.Common.dll
 Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
 Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx.dll
@@ -54,6 +58,7 @@ Xamarin.AndroidX.Lifecycle.ViewModel.Ktx.dll
 Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
 Xamarin.AndroidX.Loader.dll
 Xamarin.AndroidX.LocalBroadcastManager.dll
+Xamarin.AndroidX.Media.dll
 Xamarin.AndroidX.Navigation.Common.dll
 Xamarin.AndroidX.Navigation.Fragment.dll
 Xamarin.AndroidX.Navigation.Runtime.dll
@@ -144,11 +149,16 @@ androidx.navigation.navigation-ui.aar
 androidx.lifecycle.lifecycle-livedata-core-ktx.aar
 androidx.fragment.fragment-ktx.aar
 androidx.navigation.navigation-fragment.aar
+androidx.media.media.aar
 androidx.lifecycle.lifecycle-livedata.aar
+androidx.asynclayoutinflater.asynclayoutinflater.aar
+androidx.legacy.legacy-support-core-ui.aar
+androidx.legacy.legacy-support-v4.aar
 androidx.exifinterface.exifinterface.aar
 androidx.browser.browser.aar
 gifdecoder.aar
 glide.aar
+AppActions.Icons.Maui.aar
 GoogleGson.aar
 Jsr305Binding.aar
 Microsoft.Maui.Controls.Compatibility.aar
