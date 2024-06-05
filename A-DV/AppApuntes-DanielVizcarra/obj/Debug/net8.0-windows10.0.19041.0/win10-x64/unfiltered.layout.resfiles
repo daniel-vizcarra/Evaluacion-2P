@@ -46,6 +46,7 @@ appiconWideTile.scale-125.png
 appiconWideTile.scale-150.png
 appiconWideTile.scale-200.png
 appiconWideTile.scale-400.png
+digits.scale-100.png
 dotnet_bot.scale-100.png
 dotnet_bot.scale-125.png
 dotnet_bot.scale-150.png
@@ -55,7 +56,12 @@ icon_about.scale-100.png
 icon_about_ios.scale-100.png
 icon_notes.scale-100.png
 icon_notes_ios.scale-100.png
+letters.scale-100.png
+lowercase.scale-100.png
 text.scale-100.png
+total.scale-100.png
+uppercase.scale-100.png
+vowels.scale-100.png
 splashSplashScreen.scale-100.png
 splashSplashScreen.scale-125.png
 splashSplashScreen.scale-150.png

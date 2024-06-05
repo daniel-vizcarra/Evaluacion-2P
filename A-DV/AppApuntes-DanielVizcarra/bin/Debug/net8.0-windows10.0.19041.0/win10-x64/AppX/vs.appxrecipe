@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-05T16:31:09.767</Modified>
+      <Modified>2024-06-05T17:16:57.937</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-05T16:26:01.285</Modified>
+      <Modified>2024-06-05T17:10:49.051</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.runtimeconfig.json">
       <PackagePath>AppApuntes-DanielVizcarra.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.dll">
       <PackagePath>AppApuntes-DanielVizcarra.dll</PackagePath>
-      <Modified>2024-06-05T16:31:09.436</Modified>
+      <Modified>2024-06-05T17:16:57.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AppApuntes-DanielVizcarra.exe</PackagePath>
-      <Modified>2024-06-05T16:31:09.440</Modified>
+      <Modified>2024-06-05T17:16:57.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -265,25 +265,29 @@
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-06-05T16:19:11.474</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\digits.scale-100.png">
+      <PackagePath>digits.scale-100.png</PackagePath>
+      <Modified>2024-06-05T16:46:29.761</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-06-05T16:19:11.035</Modified>
+      <Modified>2024-06-05T16:49:56.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-06-05T16:19:11.049</Modified>
+      <Modified>2024-06-05T16:49:56.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-06-05T16:19:11.062</Modified>
+      <Modified>2024-06-05T16:49:56.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-06-05T16:19:11.083</Modified>
+      <Modified>2024-06-05T16:49:56.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-06-05T16:19:11.147</Modified>
+      <Modified>2024-06-05T16:49:56.634</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png">
       <PackagePath>icon_about.scale-100.png</PackagePath>
@@ -301,9 +305,29 @@
       <PackagePath>icon_notes_ios.scale-100.png</PackagePath>
       <Modified>2024-06-05T15:40:23.150</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\letters.scale-100.png">
+      <PackagePath>letters.scale-100.png</PackagePath>
+      <Modified>2024-06-05T16:46:18.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lowercase.scale-100.png">
+      <PackagePath>lowercase.scale-100.png</PackagePath>
+      <Modified>2024-06-05T16:44:47.501</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\text.scale-100.png">
       <PackagePath>text.scale-100.png</PackagePath>
       <Modified>2024-06-05T16:03:58.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\total.scale-100.png">
+      <PackagePath>total.scale-100.png</PackagePath>
+      <Modified>2024-06-05T16:46:40.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\uppercase.scale-100.png">
+      <PackagePath>uppercase.scale-100.png</PackagePath>
+      <Modified>2024-06-05T16:44:53.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\vowels.scale-100.png">
+      <PackagePath>vowels.scale-100.png</PackagePath>
+      <Modified>2024-06-05T16:45:18.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.deps.json">
       <PackagePath>AppApuntes-DanielVizcarra.deps.json</PackagePath>

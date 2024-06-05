@@ -3,29 +3,34 @@
     x:Class="AppApuntes_DanielVizcarra.Views.TextPageDV"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    Title="TextPageDV">
+    Title="Conteo de Caracteres">
 
     <StackLayout Padding="20">
-        <Label Text="Enter a string:" 
+        <Label Text="Ingrese una cadena:" 
                VerticalOptions="CenterAndExpand" 
                HorizontalOptions="CenterAndExpand" />
         <Entry x:Name="inputEntry" 
                Placeholder="Enter text here" 
                VerticalOptions="CenterAndExpand" 
                HorizontalOptions="FillAndExpand" />
-        
-        <StackLayout x:Name="resultStack" 
-                     VerticalOptions="CenterAndExpand" 
-                     HorizontalOptions="CenterAndExpand">
+        <Grid x:Name="resultGrid" 
+               HorizontalOptions="CenterAndExpand" 
+               Margin="0,20,0,40" 
+               RowDefinitions="Auto, Auto, Auto, Auto, Auto, Auto"
+               ColumnDefinitions="*, Auto">
+        </Grid>
+        <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+            <Button Text="Conteo" 
+                    Clicked="OnAnalyzeClicked" 
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" 
+                    BackgroundColor="Green" />
+            <Button Text="Limpiar" 
+                    Clicked="OnClearClicked" 
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" 
+                    BackgroundColor="Red" />
         </StackLayout>
-        <Button Text="Analyze" 
-                Clicked="OnAnalyzeClicked" 
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        <Button Text="Clear" 
-                Clicked="OnClearClicked" 
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
     </StackLayout>
 
 </ContentPage>
