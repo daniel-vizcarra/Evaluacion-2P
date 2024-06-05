@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-05T16:22:41.939</Modified>
+      <Modified>2024-06-05T16:31:09.767</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-05T16:22:41.772</Modified>
+      <Modified>2024-06-05T16:26:01.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.runtimeconfig.json">
       <PackagePath>AppApuntes-DanielVizcarra.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.dll">
       <PackagePath>AppApuntes-DanielVizcarra.dll</PackagePath>
-      <Modified>2024-06-05T16:22:40.583</Modified>
+      <Modified>2024-06-05T16:31:09.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AppApuntes-DanielVizcarra.exe</PackagePath>
-      <Modified>2024-06-05T16:22:40.596</Modified>
+      <Modified>2024-06-05T16:31:09.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Evaluacion-2P\A-DV\AppApuntes-DanielVizcarra\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

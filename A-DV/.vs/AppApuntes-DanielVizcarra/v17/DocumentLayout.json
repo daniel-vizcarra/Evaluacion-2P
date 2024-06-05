@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\cisco\\documents\\github\\evaluacion-2p\\a-dv\\appapuntes-danielvizcarra\\views\\textpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\textpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\cisco\\documents\\github\\evaluacion-2p\\a-dv\\appapuntes-danielvizcarra\\views\\textpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\textpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\cisco\\documents\\github\\evaluacion-2p\\a-dv\\appapuntes-danielvizcarra\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\cisco\\documents\\github\\evaluacion-2p\\a-dv\\appapuntes-danielvizcarra\\views\\textpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\textpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\cisco\\documents\\github\\evaluacion-2p\\a-dv\\appapuntes-danielvizcarra\\views\\notepagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -81,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,33 +93,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T16:30:41.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TextPageDV.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\TextPageDV.xaml.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\TextPageDV.xaml.cs",
               "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\TextPageDV.xaml.cs",
               "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\TextPageDV.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T16:21:35.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TextPageDV.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\TextPageDV.xaml",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\TextPageDV.xaml",
               "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\TextPageDV.xaml",
               "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\TextPageDV.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-05T16:21:32.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\App.xaml.cs",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppApuntes-DanielVizcarra.csproj",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
@@ -141,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\AppShell.xaml",
@@ -154,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\AppShell.xaml.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "NotePageDV.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
@@ -180,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NotePageDV.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
@@ -193,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AllNotesDV.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
@@ -206,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AboutPageDV.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml",
@@ -219,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AllNotesPageDV.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
@@ -232,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\App.xaml",
@@ -245,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "NoteDV.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
@@ -258,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AboutDV.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
@@ -271,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AboutPageDV.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml.cs",
@@ -284,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AllNotesPageDV.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
@@ -297,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\MauiProgram.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\MauiProgram.cs",
@@ -310,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
               "DocumentMoniker": "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Daniel\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
