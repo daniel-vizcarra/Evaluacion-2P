@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\ApuntesDV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj": {}
+    "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\ApuntesDV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj": {
+    "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\ApuntesDV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
+        "projectUniqueName": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
         "projectName": "AppApuntes-DanielVizcarra",
-        "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\ApuntesDV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
-        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\ApuntesDV\\AppApuntes-DanielVizcarra\\obj\\",
+        "projectPath": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
+        "packagesPath": "C:\\Users\\cisco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cisco\\Documents\\GitHub\\Evaluacion-2P\\A-DV\\AppApuntes-DanielVizcarra\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cisco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
